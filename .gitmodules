@@ -10,3 +10,7 @@
 	path = pico-playground
 	url = https://github.com/raspberrypi/pico-playground.git
 	branch = master
+[submodule "picotool"]
+	path = picotool
+	url = https://github.com/raspberrypi/picotool.git
+	branch = master
