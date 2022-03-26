@@ -14,3 +14,9 @@
 	path = picotool
 	url = https://github.com/raspberrypi/picotool.git
 	branch = master
+[submodule "rp2040-doom"]
+	path = rp2040-doom
+	url = https://github.com/kilograham/rp2040-doom.git
+[submodule "sdl_event_forwarder"]
+	path = sdl_event_forwarder
+	url = https://github.com/kilograham/sdl_event_forwarder.git
